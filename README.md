@@ -60,4 +60,4 @@
 ### 📫 Contact Me
 
 - Email: `demchenko.anatoliy.1@gmail.com`  
-- Telegram: [@yourhandle](https://t.me/freelancevip)  
+- Telegram: [@freelancevip](https://t.me/freelancevip)  
