@@ -53,7 +53,7 @@ A full Telegram bot system + Laravel dashboard for farmers across Ukraine
 ➡ Processed 15,000+ applications in 2 months, reduced manual workload ×3  
 **Stack:** Node.js (Telegraf), Laravel, MySQL, REST, PM2, Nginx
 
-📂 [Read the case study](https://github.com/freelancevip/case-studies/README.md)
+📂 [Read the case study](https://github.com/freelancevip/freelancevip/blob/main/case-studies/README.md)
 
 ---
 
