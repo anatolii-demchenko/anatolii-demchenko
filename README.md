@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/freelancevip/freelancevip/blob/main/cv/README.md"><strong>📄 My CV (Markdown)</strong></a> •
+  <a href="https://github.com/freelancevip/freelancevip/blob/main/cv/README.md"><strong>📄 My CV Markdown</strong></a> •
   <a href="mailto:demchenko.anatoliy.1@gmail.com"><strong>📧 Email Me</strong></a> •
   <a href="https://t.me/freelancevip"><strong>💬 Telegram</strong></a>
 </p>
