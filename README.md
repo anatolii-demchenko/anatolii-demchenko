@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/freelancevip/cv/blob/main/README.md"><strong>📄 My CV (Markdown)</strong></a> •
+  <a href="https://github.com/freelancevip/freelancevip/blob/main/cv/README.md"><strong>📄 My CV (Markdown)</strong></a> •
   <a href="mailto:demchenko.anatoliy.1@gmail.com"><strong>📧 Email Me</strong></a> •
   <a href="https://t.me/freelancevip"><strong>💬 Telegram</strong></a>
 </p>
@@ -70,7 +70,7 @@ A full Telegram bot system + Laravel dashboard for farmers across Ukraine
 
 - 📧 Email: [demchenko.anatoliy.1@gmail.com](mailto:demchenko.anatoliy.1@gmail.com)
 - 💬 Telegram: [@freelancevip](https://t.me/freelancevip)
-- 🧾 [CV in Markdown](https://github.com/freelancevip/cv/blob/main/README.md)
+- 🧾 [CV in Markdown](https://github.com/freelancevip/freelancevip/blob/main/cv/README.md)
 
 ---
 
