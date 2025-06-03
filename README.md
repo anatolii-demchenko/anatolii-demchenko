@@ -61,7 +61,7 @@ A full Telegram bot system + Laravel dashboard for farmers across Ukraine
 - 👨‍💻 8+ years freelance experience, full-stack & product delivery
 - 🧩 Problem-solver: backend logic, APIs, deployment, dashboards
 - 🗣️ Fluent in 🇺🇦 Ukrainian, 🇷🇺 Russian, 🇩🇪 German (B2), 🇬🇧 English (B1)
-- 🏡 Based in Lemgo, NRW (Germany), open to EU relocation or remote
+- 🏡 Based in NRW (Germany), open to EU relocation or remote
 
 ---
 
