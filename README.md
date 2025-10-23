@@ -13,7 +13,8 @@
 <p align="center">
   <a href="https://github.com/anatolii-demchenko/anatolii-demchenko/blob/main/cv/README.md"><strong>📄 My CV Markdown</strong></a> •
   <a href="mailto:demchenko.anatoliy.1@gmail.com"><strong>📧 Email Me</strong></a> •
-  <a href="https://t.me/freelancevip"><strong>💬 Telegram</strong></a>
+  <a href="https://t.me/freelancevip"><strong>💬 Telegram</strong></a> •
+  <a href="https://anatolii-demchenko.github.io/"><strong>🌐 Website</strong></a>
 </p>
 
 ---
